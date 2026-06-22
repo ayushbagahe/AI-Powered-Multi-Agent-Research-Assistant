@@ -18,7 +18,7 @@ An autonomous research system that uses multiple AI agents to perform web resear
 ---
 
 ## 🏗️ System Architecture
-
+![Project Flow](https://github.com/ayushbagahe/AI-Powered-Multi-Agent-Research-Assistant/blob/main/flow.jpg)
 ### 🔍 Research Agent
 
 * Searches the web for relevant information
